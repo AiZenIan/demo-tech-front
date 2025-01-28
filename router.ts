@@ -1,7 +1,5 @@
 /This is the starting point 
 
 
-function 
-public get value() : string {
-    return 
-}
+$cars = array("Chevrolet", "Ford", "Toyota");
+var_dump($cars);
